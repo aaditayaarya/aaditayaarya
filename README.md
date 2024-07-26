@@ -2,7 +2,7 @@
 
 * 👀 I’m interested in Full Stack Development and emerging technologies.
 
-* 🌱 I’m currently learning Full Stack Development as part of my MCA studies.
+* 🌱 I’m currently learning Full Stack Development as part of my BTech studies.
 
 * 💞️ I’m looking to collaborate on exciting projects that involve web development and innovative tech solutions.
 
