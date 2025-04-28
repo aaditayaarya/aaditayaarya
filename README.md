@@ -1,4 +1,4 @@
-# Hi, I’m @Adityaarya 
+👋# Hi, I’m @Adityaarya 
 
 👀I am a passionate and detail-oriented Data Analyst, I specialize in uncovering insights that drive strategic decision-making. With expertise in tools like Python, SQL, Excel, and Tableau, I bring data to life through storytelling and visualization. My goal is to solve complex business problems by leveraging analytical techniques and ensuring data-driven growth.
 
