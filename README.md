@@ -16,7 +16,7 @@
 
 📫 Let’s connect: **adityarya036@gmail.com**
 
-- 🔗 [![Connect on LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-arya786/)
+- 🔗 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aditya-arya786/)
 
 
 
