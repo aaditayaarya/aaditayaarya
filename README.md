@@ -1,10 +1,27 @@
-#👋 Hi, I’m @Adityaarya 
+# 👋 Hi, I’m Aditya Arya!
 
-👀I am a passionate and detail-oriented Data Analyst, I specialize in uncovering insights that drive strategic decision-making. With expertise in tools like Python, SQL, Excel, and Tableau, I bring data to life through storytelling and visualization. My goal is to solve complex business problems by leveraging analytical techniques and ensuring data-driven growth.
+## Junior Data Analyst Intern at Cognifyz Technology | Excel, Power BI, SQL, Python Enthusiast | Passionate Data Analyst 
+---
 
-🌱 I’m currently gaining Hands-on experience with data cleaning, manipulation, and visualization.
-💡 Proficient in extracting actionable insights from large datasets.
-📫 How to reach me: adityaarya036@gmail.com 
-😄 Pronouns: He/Him
-⚡ Fun fact: I thrive on identifying patterns and insights that drive process improvements and data-driven strategies!
+👀 I’m passionate about **Data Analytics**, **Business Intelligence**, and transforming raw data into impactful insights to support smarter business decisions.
 
+💼 I have strong **hands-on experience** working on diverse data projects involving:
+- **Excel** (Power Pivot, Dashboards, PivotTables)
+- **Power BI** (Data Modeling, DAX, Interactive Reports)
+- **SQL** (PostgreSQL, PgAdmin for querying and data manipulation)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn for data analysis and visualization)
+
+⚙️ Tools & Platforms:
+- **Google Sheets**, **Jupyter Notebook**, **Kaggle Notebook**
+
+📫 Let’s connect: **adityarya036@gmail.com**
+
+🔗 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-blue?logo=linkedin&style=for-the-badge)](LinkedIn: https://www.linkedin.com/in/aditya-arya786/)
+
+
+
+😄 **Fun Fact:** I thrive on identifying patterns in data and crafting visual stories that drive smarter, data-informed decisions.
+
+---
+
+> *“Data is the new oil — I’m here to refine it into insight.”*
